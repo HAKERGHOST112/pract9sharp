@@ -1,0 +1,20 @@
+C:\Users\koa93\source\repos\PRACT 8\PRACT 8\bin\Debug\PRACT 8.exe.config
+C:\Users\koa93\source\repos\PRACT 8\PRACT 8\bin\Debug\PRACT 8.exe
+C:\Users\koa93\source\repos\PRACT 8\PRACT 8\bin\Debug\PRACT 8.pdb
+C:\Users\koa93\source\repos\PRACT 8\PRACT 8\obj\Debug\PRACT 8.csproj.AssemblyReference.cache
+C:\Users\koa93\source\repos\PRACT 8\PRACT 8\obj\Debug\PRACT_8.Form1.resources
+C:\Users\koa93\source\repos\PRACT 8\PRACT 8\obj\Debug\PRACT_8.Properties.Resources.resources
+C:\Users\koa93\source\repos\PRACT 8\PRACT 8\obj\Debug\PRACT 8.csproj.GenerateResource.cache
+C:\Users\koa93\source\repos\PRACT 8\PRACT 8\obj\Debug\PRACT 8.csproj.CoreCompileInputs.cache
+C:\Users\koa93\source\repos\PRACT 8\PRACT 8\obj\Debug\PRACT 8.exe
+C:\Users\koa93\source\repos\PRACT 8\PRACT 8\obj\Debug\PRACT 8.pdb
+C:\Users\koa93\OneDrive\Рабочий стол\gitHab\pract-8C#\pract-8C-\PRACT 8\PRACT 8\bin\Debug\PRACT 8.exe.config
+C:\Users\koa93\OneDrive\Рабочий стол\gitHab\pract-8C#\pract-8C-\PRACT 8\PRACT 8\bin\Debug\PRACT 8.exe
+C:\Users\koa93\OneDrive\Рабочий стол\gitHab\pract-8C#\pract-8C-\PRACT 8\PRACT 8\bin\Debug\PRACT 8.pdb
+C:\Users\koa93\OneDrive\Рабочий стол\gitHab\pract-8C#\pract-8C-\PRACT 8\PRACT 8\obj\Debug\PRACT 8.csproj.AssemblyReference.cache
+C:\Users\koa93\OneDrive\Рабочий стол\gitHab\pract-8C#\pract-8C-\PRACT 8\PRACT 8\obj\Debug\PRACT_8.Form1.resources
+C:\Users\koa93\OneDrive\Рабочий стол\gitHab\pract-8C#\pract-8C-\PRACT 8\PRACT 8\obj\Debug\PRACT_8.Properties.Resources.resources
+C:\Users\koa93\OneDrive\Рабочий стол\gitHab\pract-8C#\pract-8C-\PRACT 8\PRACT 8\obj\Debug\PRACT 8.csproj.GenerateResource.cache
+C:\Users\koa93\OneDrive\Рабочий стол\gitHab\pract-8C#\pract-8C-\PRACT 8\PRACT 8\obj\Debug\PRACT 8.csproj.CoreCompileInputs.cache
+C:\Users\koa93\OneDrive\Рабочий стол\gitHab\pract-8C#\pract-8C-\PRACT 8\PRACT 8\obj\Debug\PRACT 8.exe
+C:\Users\koa93\OneDrive\Рабочий стол\gitHab\pract-8C#\pract-8C-\PRACT 8\PRACT 8\obj\Debug\PRACT 8.pdb
